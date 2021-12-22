@@ -1,12 +1,14 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    mocha (1.13.0)
     mocktail (1.0.0)
 
 PLATFORMS
   arm64-darwin-21
 
 DEPENDENCIES
+  mocha (~> 1.13)
   mocktail (~> 1.0)
 
 BUNDLED WITH
